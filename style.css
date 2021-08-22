@@ -1,12 +1,17 @@
-.contact-info {
+
+.contact-info1 {
   list-style: none;
   font-style: Arial, Helvetica, sans-serif;
-  border-top: 1px solid;
-  border-bottom: 1px solid;
-  text-align: center;
-  
+  border-top: 4px solid grey;
+  text-align: center; 
 }
 
+.contact-info2 {
+  list-style: none;
+  font-style: Arial, Helvetica, sans-serif;
+  border-bottom: 4px solid grey;
+  text-align: center; 
+}
 html {
   border: 10px solid grey;
 }
@@ -15,8 +20,9 @@ h1{
   font-size: 45px;
   font-family: cursive;
   color: black;
-  padding: 20px;
+  padding: -3px;
   border: 10px solid grey;
+  border-radius: 26px;
 
 }
 
@@ -36,7 +42,7 @@ p {
 }
 h6{
   margin-top: -18px;
-  
+  margin-bottom: -.03px;
 }
 
 h5 {
@@ -47,6 +53,7 @@ h5 {
 }
 h3 {
     border: 10px solid grey;
+    border-radius: 16px;
 }
 
 li {
