@@ -1,1 +1,64 @@
+.contact-info {
+  list-style: none;
+  font-style: Arial, Helvetica, sans-serif;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  text-align: center;
+  
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  font-family: cursive;
+}
+
+body {
+  background-color: #FFE4C4;
+  margin: 5% 20%;
+}
+
+p {
+  font-family: cursive;
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+h6{
+  margin-top: -18px;
+  
+}
+
+h5 {
+  font-size: 15px;
+  margin-bottom: -15px;
+  margin-top: -10px;
+}
+
+li {
+  list-style: square
+}
+
+img {
+  border-radius: 9999px;
+  width: 15em;
+  height: 15em;
+  margin-left: 35%;
+  margin-top: -35px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
